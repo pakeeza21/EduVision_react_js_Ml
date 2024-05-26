@@ -1,3 +1,3 @@
 # React Personality Test
 
-# Blossom-up-react-js-ML
+# EduVision-react-js-ML
